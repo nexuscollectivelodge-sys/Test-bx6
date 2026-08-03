@@ -1,0 +1,6 @@
+{
+  "name": "EasyMSR Track Reader",
+  "description": "EasyMSR card reader application for X6BT / MiniDX magnetic stripe readers with full Track 1/2/3 auto-decoding, card history, writer tools & Bluetooth console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
